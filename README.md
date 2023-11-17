@@ -1,2 +1,2 @@
 # UnihackxD
-proiect pentru medici
+proiect pentru medici si ingineri din Africa de Nord
